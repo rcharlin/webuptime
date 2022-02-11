@@ -11,8 +11,8 @@ sites:
     url: https://gynoderm.com.ar/
   - name: Varisedan
     url: https://varisedan.com.ar/
-  - name: Google
-    url: https://google.com
+  - name: Bernardo de Irigoyen
+    url: http://vpn.imvi.com.ar/
     
     asigneers:
     - rcharlin 
