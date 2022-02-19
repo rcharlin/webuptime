@@ -40,9 +40,9 @@
     "url": "https://gynoderm.com.ar/",
     "icon": "https://favicons.githubusercontent.com/gynoderm.com.ar",
     "slug": "gynoderm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1876,
     "timeMonth": 1841,
     "timeYear": 1841,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-19": 0
+    }
   },
   {
     "name": "VARISEDAN",
@@ -88,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-19": 139,
+      "2022-02-19": 570,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
