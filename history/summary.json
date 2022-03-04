@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1006,
-    "timeDay": 1219,
-    "timeWeek": 1056,
-    "timeMonth": 1006,
-    "timeYear": 1006,
+    "time": 1020,
+    "timeDay": 1301,
+    "timeWeek": 1115,
+    "timeMonth": 1020,
+    "timeYear": 1020,
     "dailyMinutesDown": {
       "2022-03-03": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 678,
-    "timeDay": 783,
-    "timeWeek": 613,
-    "timeMonth": 678,
-    "timeYear": 678,
+    "time": 671,
+    "timeDay": 514,
+    "timeWeek": 601,
+    "timeMonth": 671,
+    "timeYear": 671,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/gynoderm.com.ar",
     "slug": "gynoderm",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1839,
-    "timeDay": 1914,
-    "timeWeek": 1884,
-    "timeMonth": 1839,
-    "timeYear": 1839,
-    "dailyMinutesDown": {
-      "2022-03-03": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1885,
+    "timeDay": 2446,
+    "timeWeek": 2024,
+    "timeMonth": 1885,
+    "timeYear": 1885,
+    "dailyMinutesDown": {}
   },
   {
     "name": "VARISEDAN",
@@ -63,19 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/varisedan.com.ar",
     "slug": "varisedan",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2256,
-    "timeDay": 2184,
-    "timeWeek": 2208,
-    "timeMonth": 2256,
-    "timeYear": 2256,
-    "dailyMinutesDown": {
-      "2022-03-03": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2264,
+    "timeDay": 2319,
+    "timeWeek": 2235,
+    "timeMonth": 2264,
+    "timeYear": 2264,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bernardo de Irigoyen",
@@ -94,7 +90,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-03": 1247,
+      "2022-03-04": 157,
+      "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
