@@ -42,19 +42,19 @@
     "url": "https://gynoderm.com.ar/",
     "icon": "https://favicons.githubusercontent.com/gynoderm.com.ar",
     "slug": "gynoderm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1884,
-    "timeDay": 1993,
-    "timeWeek": 2023,
-    "timeMonth": 1884,
-    "timeYear": 1884,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1878,
+    "timeDay": 1833,
+    "timeWeek": 1984,
+    "timeMonth": 1878,
+    "timeYear": 1878,
     "dailyMinutesDown": {
-      "2022-03-10": 0
+      "2022-03-10": 6
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-10": 1163,
+      "2022-03-10": 1169,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
