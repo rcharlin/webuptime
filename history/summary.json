@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1005,
-    "timeDay": 794,
-    "timeWeek": 965,
-    "timeMonth": 1019,
-    "timeYear": 1005,
+    "time": 1003,
+    "timeDay": 908,
+    "timeWeek": 954,
+    "timeMonth": 1016,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2022-03-03": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 1101,
-    "timeWeek": 832,
-    "timeMonth": 689,
-    "timeYear": 708,
+    "time": 714,
+    "timeDay": 979,
+    "timeWeek": 899,
+    "timeMonth": 716,
+    "timeYear": 714,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/gynoderm.com.ar",
     "slug": "gynoderm",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1957,
-    "timeDay": 1994,
-    "timeWeek": 2210,
-    "timeMonth": 2018,
-    "timeYear": 1957,
-    "dailyMinutesDown": {
-      "2022-03-21": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1951,
+    "timeDay": 1848,
+    "timeWeek": 1929,
+    "timeMonth": 2021,
+    "timeYear": 1951,
+    "dailyMinutesDown": {}
   },
   {
     "name": "VARISEDAN",
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2267,
-    "timeDay": 2646,
-    "timeWeek": 2514,
-    "timeMonth": 2256,
-    "timeYear": 2267,
+    "time": 2260,
+    "timeDay": 1986,
+    "timeWeek": 2465,
+    "timeMonth": 2249,
+    "timeYear": 2260,
     "dailyMinutesDown": {}
   },
   {
@@ -92,7 +90,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-21": 700,
+      "2022-03-22": 34,
+      "2022-03-21": 1440,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
       "2022-03-18": 1440,
