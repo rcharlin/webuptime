@@ -64,19 +64,19 @@
     "url": "https://varisedan.com.ar/",
     "icon": "https://favicons.githubusercontent.com/varisedan.com.ar",
     "slug": "varisedan",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2240,
-    "timeDay": 2176,
-    "timeWeek": 2275,
-    "timeMonth": 2230,
-    "timeYear": 2240,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 2243,
+    "timeDay": 2326,
+    "timeWeek": 2300,
+    "timeMonth": 2238,
+    "timeYear": 2243,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 18
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-26": 430,
+      "2022-04-26": 449,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
