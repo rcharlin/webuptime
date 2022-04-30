@@ -47,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/gynoderm.com.ar",
     "slug": "gynoderm",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.95%",
     "time": 1921,
     "timeDay": 1719,
     "timeWeek": 1962,
     "timeMonth": 1866,
     "timeYear": 1921,
     "dailyMinutesDown": {
-      "2022-04-30": 0,
+      "2022-04-30": 17,
       "2022-04-27": 34
     }
   },
@@ -67,9 +67,9 @@
     "url": "https://varisedan.com.ar/",
     "icon": "https://favicons.githubusercontent.com/varisedan.com.ar",
     "slug": "varisedan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.95%",
@@ -79,6 +79,7 @@
     "timeMonth": 2265,
     "timeYear": 2254,
     "dailyMinutesDown": {
+      "2022-04-30": 0,
       "2022-04-27": 34,
       "2022-04-26": 18
     }
@@ -100,7 +101,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-30": 803,
+      "2022-04-30": 820,
       "2022-04-29": 1440,
       "2022-04-28": 1440,
       "2022-04-27": 1440,
